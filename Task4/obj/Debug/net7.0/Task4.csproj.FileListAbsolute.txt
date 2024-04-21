@@ -1,0 +1,14 @@
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\bin\Debug\net7.0\Task4.exe
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\bin\Debug\net7.0\Task4.deps.json
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\bin\Debug\net7.0\Task4.dll
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\bin\Debug\net7.0\Task4.pdb
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\Task4.dll
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\refint\Task4.dll
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\Task4.pdb
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+C:\Users\дмитрий\Desktop\lesson5\version_control\Task4\obj\Debug\net7.0\ref\Task4.dll
