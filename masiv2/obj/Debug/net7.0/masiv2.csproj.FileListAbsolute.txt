@@ -1,0 +1,14 @@
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\bin\Debug\net7.0\masiv2.exe
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\bin\Debug\net7.0\masiv2.deps.json
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\bin\Debug\net7.0\masiv2.runtimeconfig.json
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\bin\Debug\net7.0\masiv2.dll
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\bin\Debug\net7.0\masiv2.pdb
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\masiv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\masiv2.AssemblyInfoInputs.cache
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\masiv2.AssemblyInfo.cs
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\masiv2.csproj.CoreCompileInputs.cache
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\masiv2.dll
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\refint\masiv2.dll
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\masiv2.pdb
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\masiv2.genruntimeconfig.cache
+C:\Users\дмитрий\Desktop\masiv\version_control\masiv2\obj\Debug\net7.0\ref\masiv2.dll
