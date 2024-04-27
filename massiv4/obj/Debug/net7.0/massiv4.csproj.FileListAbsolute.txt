@@ -1,0 +1,14 @@
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\bin\Debug\net7.0\massiv4.exe
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\bin\Debug\net7.0\massiv4.deps.json
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\bin\Debug\net7.0\massiv4.runtimeconfig.json
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\bin\Debug\net7.0\massiv4.dll
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\bin\Debug\net7.0\massiv4.pdb
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\massiv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\massiv4.AssemblyInfoInputs.cache
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\massiv4.AssemblyInfo.cs
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\massiv4.csproj.CoreCompileInputs.cache
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\massiv4.dll
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\refint\massiv4.dll
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\massiv4.pdb
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\massiv4.genruntimeconfig.cache
+C:\Users\дмитрий\Desktop\masiv\version_control\massiv4\obj\Debug\net7.0\ref\massiv4.dll
